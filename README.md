@@ -1,2 +1,0 @@
-# shopping-demo
-Shopping
